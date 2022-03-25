@@ -1,3 +1,8 @@
-# Challenge3_UW_FinTech
-This is a third challenge for boot camp UW FinTech. The challenge creates Jupyter notebook that contains the code for your data collection, preparation, and analysis, including any visualizations. Analyzed arbitrage opportunities in Bitcoin and other cryptocurrencies.
+# Challenge3_UW_FinTech - Revised 
+This is a third challenge for boot camp UW FinTech. 
+
+The challenge creates a Jupyter notebook for data collection, preparation, and analysis, including some visualizations. 
+
+Analyzed arbitrage opportunities in Bitcoin and other cryptocurrencies.
+
 "# ChallengeThree" 
